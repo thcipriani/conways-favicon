@@ -1,3 +1,7 @@
+/**
+ * Just copied so I could create the default favicon.ico
+ * this version doesn't "tick" or "evolve" it's just static
+ */
 (function() {
   'use strict'
 
